@@ -2,4 +2,4 @@
 
 練習です
 
-Githubで変更
+vscodeで変更
